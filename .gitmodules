@@ -1,0 +1,3 @@
+[submodule "application/MyUNI_Server"]
+	path = application/MyUNI_Server
+	url = https://github.com/NerdSmith/MyUNI_Server.git
